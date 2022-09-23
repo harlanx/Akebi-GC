@@ -40,6 +40,7 @@ Check our wiki - [Building](https://github.com/Akebi-Group/Akebi-GC/wiki/Buildin
 2. Run `injector.exe`.
 3. After the login page appeared, press F1 to open Akebi GUI.
 
+<!--
 <h1 align="center">Features</h1>
 
 #### General
@@ -127,6 +128,7 @@ Check our wiki - [Building](https://github.com/Akebi-Group/Akebi-GC/wiki/Buildin
   <summary>Auto Talk</summary>
   <img src="https://github.com/CallowBlack/gif-demos/blob/main/genshin-cheat/auto-talk-demo.gif"/>
 </details>
+-->
 
 <h1 align="center">Bugs</h1>
 
